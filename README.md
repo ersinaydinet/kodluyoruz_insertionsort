@@ -10,7 +10,7 @@ Iteration 5: 2 6 16 18 22 27
 Big O notation
 
 Best : O(n)
-Worst and Average O(n^2)
+Worst and Average O(n^2) = n^2 = 6^2 = 36
 
 
 Time Complexity for 18 --> Average Case 
